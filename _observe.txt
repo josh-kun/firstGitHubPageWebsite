@@ -1,0 +1,23 @@
+1. html structure ay nakabase sa desktop first approach
+    - mobile first
+2. konting semantic html tags ang ginamit
+    - semantic/accessibility tags
+
+3. explicit pagkakalagay ng width sa image
+4. di gumagamit ng naming convention
+    - BEMIT
+
+5. may mga magkakamukha na class na ginamit
+    - @mixin
+    - @extend
+
+6. pagka pixel perfect sa mga width ng container
+7. mahilig sa mga position
+8. nested mga elements at classes
+    - minimum of 3
+
+9. per block mag style
+
+
+1. magagandang techniques
+2. gawan ng ready made na styles sa mga elements ex... containers, images, buttons, container designs, resets
